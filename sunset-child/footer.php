@@ -24,12 +24,12 @@
 		    var cludoSettings = {
 		        customerId: 10000352,
 		        engineId: 10000520,
-		        searchUrl: 'https://timpanogos.provo.edu/search-results/',
+		        searchUrl: 'https://sunset.provo.edu/search-results/',
 		        language: 'en',
 		        searchInputs: ['cludo-search-form'],
 		        template: 'StandardInlineImages',
 		        type: 'inline',
-		        initFacets: { "Category": ["Timpanogos Elementary"] }     
+		        initFacets: { "Category": ["Sunset View Elementary"] }     
 		    };
 		CludoSearch= new Cludo(cludoSettings);
 		CludoSearch.init();
