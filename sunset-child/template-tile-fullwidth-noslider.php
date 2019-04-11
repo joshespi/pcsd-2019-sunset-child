@@ -81,9 +81,10 @@
 		   		get_sidebar( 'about' );
 	   		} //elseif(in_array( 117, get_post_ancestors($post))) {
 		   		//get_sidebar( 'counseling' );
-	   		//} elseif(in_array( 43352, get_post_ancestors($post))) {
-		   		//get_sidebar( 'extracurricular' );
 	   		//} 
+	   		elseif(in_array( 623, get_post_ancestors($post))) {
+		   		get_sidebar( 'title-i' );
+	   		} 
 	   		elseif(in_array( 122, get_post_ancestors($post))) {
 		   		get_sidebar( 'policies-forms' );
 	   		} elseif(in_array( 70, get_post_ancestors($post))) {
@@ -93,4 +94,3 @@
 	   		}
 
 			get_footer();
-		?>
