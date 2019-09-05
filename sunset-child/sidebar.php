@@ -19,7 +19,7 @@
 			<section class="calendar-agenda">
 				<h1>Today’s Events</h1>				
 				<?php echo do_shortcode('[calendar id="172"]'); ?>
-				<a href="<?php echo get_home_url(); ?>/all-events-calendar/">View All Events Calendar</a>
+				<a href="<?php echo get_home_url(); ?>/school-information/all-events-calendar/">View All Events Calendar</a>
 			</section>
 			<section>
 				<h1>Parent Resources</h1>
