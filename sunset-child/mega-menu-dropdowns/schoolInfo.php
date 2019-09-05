@@ -10,6 +10,7 @@
 			<li class="int"><a href="https://sunset.provo.edu/school-information/study-at-home/">Study At Home</a></li>
 			<li class="ext"><a href="https://grades.provo.edu/public/">Grades & Attendance (PowerSchool)</a></li>
 			<li class="int"><a href="https://sunset.provo.edu/faculty-staff/teachers-directory/">Classrooms</a></li>
+			<li class="int"><a href="https://sunset.provo.edu/school-information/parent-dictionary/">Parent Dictionary</a></li>
 		</ul>
 </div>
 <div class="dropDownColumn">
