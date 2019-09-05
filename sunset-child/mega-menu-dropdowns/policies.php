@@ -1,6 +1,7 @@
 <div class="dropDownColumn">
 					<h3><img src="https://sunset.provo.edu/wp-content/themes/pcsd-2019-theme/assets/icons/policy.svg" alt="" />Policies</h3>
 						<ul>
+							<li class="int"><a href="https://sunset.provo.edu/policies-forms/student-parent-handbook/">Student-Parent Handbook</a></li>
 							<li class="int"><a href="https://sunset.provo.edu/policies-forms/homework-policy/">Homework Policy</a></li>
 							<li class="pdf"><a href="https://provo.edu/wp-content/uploads/2018/08/08142018-3150-Student-Attendance.pdf">3150 Student Attendance</a></li>
 							<li class="pdf"><a href="https://provo.edu/wp-content/uploads/2017/01/3155-Releasing-Minors-from-School-Attendance.pdf">3155 Releasing Minors from School Attendance</a></li>
