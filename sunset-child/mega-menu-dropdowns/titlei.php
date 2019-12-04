@@ -13,13 +13,13 @@
 				<div class="dropDownColumn">
 					<h3><img src="https://sunset.provo.edu/wp-content/themes/pcsd-2019-theme/assets/icons/procedures1.svg" alt="" />School-Parent Compact</h3>
 						<ul>
-							<li class="pdf"><a href="https://sunset.provo.edu/wp-content/uploads/2019/01/2018-2019-School-Parent-Compact-with-Logo.pages-1.pdf">School-Parent Compact (English)</a></li>
-							<li class="pdf"><a href="https://sunset.provo.edu/wp-content/uploads/2019/01/2018-2019-School-Parent-Compact-with-Logo-Spanish.pages.pdf">School-Parent Compact (Spanish)</a></li>
+							<li class="pdf"><a href="https://sunset.provo.edu/wp-content/uploads/2019/10/SV_ParentCompact_fy20_Eng.pdf">School-Parent Compact (English)</a></li>
+							<li class="pdf"><a href="https://sunset.provo.edu/wp-content/uploads/2019/10/SV_ParentCompact_fy20_Spa.pdf">School-Parent Compact (Spanish)</a></li>
 						</ul>
 					<h3><img src="https://sunset.provo.edu/wp-content/themes/pcsd-2019-theme/assets/icons/procedures1.svg" alt="" />Parent Involvement Policy</h3>
 						<ul>
-							<li class="pdf"><a href="https://sunset.provo.edu/wp-content/uploads/2019/01/2018-2019-Parent-Involvement-Policy-with-Logo.pages.pdf">Parent Involvement Policy (English)</a></li>
-							<li class="pdf"><a href="https://sunset.provo.edu/wp-content/uploads/2019/01/2018-2019-Parent-Involvement-Policy-with-Logo-Spanish.pages.pdf">Parent Involvement Policy (Spanish)</a></li>
+							<li class="pdf"><a href="https://sunset.provo.edu/wp-content/uploads/2019/10/SV_ParentEngagementPolicy_fy20_Eng.pdf">Parent and Family Engagement Policy (English)</a></li>
+							<li class="pdf"><a href="https://sunset.provo.edu/wp-content/uploads/2019/10/SV_ParentEngagementPolicy_fy20_Spa.pdf">Parent and Family Engagement Policy (Spanish)</a></li>
 						</ul>
 				</div>
 				<div class="dropDownColumn">
