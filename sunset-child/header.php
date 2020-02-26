@@ -32,7 +32,7 @@
 			</a>
 				<aside>
 					<ul class="sociallinks">
-						<li><a href="http://www.instagram.com/SVDragons_Provo/"><img src="<?php echo get_template_directory_uri() .'/assets/icons/socialmedia-instagram-white.svg' ?>" alt="Link to Instagram" /></span>
+						<li><a href="https://www.instagram.com/sunsetviewdragons/"><img src="<?php echo get_template_directory_uri() .'/assets/icons/socialmedia-instagram-white.svg' ?>" alt="Link to Instagram" /></span>
 							</a>
 						</li>
 						<li><a href="https://twitter.com/SVDragons_Provo"><img src="<?php echo get_template_directory_uri() .'/assets/icons/socialmedia-twitter-white.svg' ?>" alt="Link to Twitter" /></span>
